@@ -1,7 +1,12 @@
-## 1.InitialProject
-[Microsoft Account external login setup with ASP.NET Core](https://docs.microsoft.com/da-dk/aspnet/core/security/authentication/social/microsoft-logins)
+## 2. LocalAccount
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/index?tabs=visual-studio#apply-migrations)
 
-Opret nyt Web projekt med Individual User Accounts.
+Web siden og klik på **Register** og opret:
+
+**User:** ecr@live.dk
+**Password:** P@ssw0rd
+
+Opdater databasen ved at klikke på knappen **Apply Migrations** på websiden. Refresh siden.
 
 
 
