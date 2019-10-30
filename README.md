@@ -8,6 +8,8 @@ Web siden og klik på **Register** og opret:
 
 Opdater databasen ved at klikke på knappen **Apply Migrations** på websiden. Refresh siden.
 
+Log in og klik på ```Hello<login-navn>``` for at lave **Manage your account**.
+
 
 
 
