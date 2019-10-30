@@ -3,10 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSaccountExternalLogin", "MSaccountExternalLogin\MSaccountExternalLogin.csproj", "{E43A9485-B104-4460-B213-8868F67D39AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSaccountExternalLogin", "MSaccountExternalLogin\MSaccountExternalLogin.csproj", "{E43A9485-B104-4460-B213-8868F67D39AB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{53B5F995-B5D4-47B3-83B5-5D794594C64E}"
 	ProjectSection(SolutionItems) = preProject
+		CreateApp.png = CreateApp.png
+		CreateSecrets.png = CreateSecrets.png
 		README.md = README.md
 	EndProjectSection
 EndProject
