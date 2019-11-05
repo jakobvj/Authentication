@@ -24,8 +24,8 @@ Secret Manager:
 {
   "Authentication": {
     "Microsoft": {
-      "ClientId": "ae130ce4-539a-4abe-b064-9acd95977f1d",
-      "ClientSecret": "f6b7kjQc/CaCIR/W@DIjG8vj]FXCk5H?"
+      "ClientId": "<clientId>",
+      "ClientSecret": "<clientSecret>"
     }
   }
 }
